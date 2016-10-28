@@ -1,0 +1,39 @@
+
+explosion.cl/cpanel: ingrsar/modificar correo
+FTP: entrar carpeta public_html o www 
+cd /c
+COMANDOS GIT:
+CLEAR (ctrl+l): limpia pantalla.
+ls (listar): listar los archivos o carpetas del directorio. 
+ls - :lista carpeta con detalles.
+ls -a: muestra archivos ocultos.
+*: cluaquier cosa o todo.
+	ejemplo: ls *.jpg: me mostrara todas las fotos.
+mkdir: crea carpetas.
+touch: crea archivos vacios.
+rm -r: borra elementos.
+pwd: me dice donde estoy.
+cd (change directory): cambia la carpet donde se esta ubicado.
+cd .. :devuelve una caprtea hacia atras.
+cd(espacio) : me devuelve al directorio raiz.
+
+git init: inicializa por primera vez con git (se hace una sola vez, al comienzo)
+git status: cheaquea el estado del proycto 
+git add: añade un archivo al repositorio (nube)
+git add . : añade todo al repositorio
+git commit -am "mensaje":agrega todo lo que se subio con git add (que esta en cola)
+			a un commit
+			"mensaje" el mensaje genera la nota, se puede reemplazar
+orden: git ad ---> git commit
+
+git log: revisa los commit hechos
+git checkout "numero de commit": revisa un commite en especifico 
+				("commit" sin comilla y con numero) 
+
+rama master: principal sin errores (produccion)
+rama development: mesa de trabajo
+
+git push origin "branch": sube cambios a github
+git checkout -b "branch": crea rama con nombre de branch
+git pull origin "branch": baja cambios de github
+++++++++++
