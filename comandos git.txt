@@ -37,3 +37,4 @@ git push origin "branch": sube cambios a github
 git checkout -b "branch": crea rama con nombre de branch
 git pull origin "branch": baja cambios de github
 ++++++++++
+soy un clone
